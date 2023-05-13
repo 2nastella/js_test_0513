@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* Core Sans C
+https://www.myfonts.com/fonts/s-core/core-sans-c */
+@font-face {
+    font-family:'Core Sans C';
+    font-weight:200;
+    font-style:normal;
+    src:local('Core Sans C 25 Extra Light'), url('//fiximage.10x10.co.kr/webfont/CoreSansC25ExtraLight.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/CoreSansC25ExtraLight.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Core Sans C';
+    font-weight:300;
+    font-style:normal;
+    src:local('Core Sans C 35 Light'), url('//fiximage.10x10.co.kr/webfont/CoreSansC35Light.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/CoreSansC35Light.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Core Sans C';
+    font-weight:normal;
+    font-style:normal;
+    src:local('Core Sans C 45 Regular'), url('//fiximage.10x10.co.kr/webfont/CoreSansC45Regular.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/CoreSansC45Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Core Sans C';
+    font-weight:500; 
+    font-style:normal; 
+    src:local('Core Sans C 55 Medium'), url('//fiximage.10x10.co.kr/webfont/CoreSansC55Medium.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/CoreSansC55Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Core Sans C';
+    font-weight:bold; 
+    font-style:normal;
+    src:local('Core Sans C 65 Bold'), url('//fiximage.10x10.co.kr/webfont/CoreSansC65Bold.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/CoreSansC65Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Core Sans C';
+    font-weight:800;
+    font-style:normal;
+    src:local('Core Sans C 75 Extra Bold'), url('//fiximage.10x10.co.kr/webfont/CoreSansC75ExtraBold.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/CoreSansC75ExtraBold.ttf') format('truetype');
+}
+
+/* Noto Sans KR */
+@font-face {
+    font-family:'Noto Sans KR';
+     font-weight:200;
+     font-style:normal;
+     src:local('Noto Sans Thin'), local('NotoSans-Thin'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Thin.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Thin.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Noto Sans KR';
+     font-weight:300;
+     font-style:normal;
+     src:local('Noto Sans Light'), local('NotoSans-Light'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Light.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Noto Sans KR';
+     font-weight:normal;
+     font-style:normal; 
+     src:local('Noto Sans Regular'), local('NotoSans-Regular'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Regular.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Noto Sans KR';
+     font-weight:500; 
+     font-style:normal;
+     src:local('Noto Sans Medium'), local('NotoSans-Medium'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Medium.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Noto Sans KR';
+     font-weight:bold; 
+     font-style:normal;
+     src:local('Noto Sans Bold'), local('NotoSans-Bold'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Bold.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family:'Noto Sans KR';
+     font-weight:800;
+     font-style:normal;
+     src:local('Noto Sans Black'), local('NotoSans-Black'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Black.woff') format('woff'), url('//fiximage.10x10.co.kr/webfont/NotoSansKR-Black.ttf') format('truetype');
+}
